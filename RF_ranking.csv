@@ -1,0 +1,97 @@
+,idx,name,score
+7,7,coworkers_experience,0.144413558720143
+85,85,OHE_mh_family_history_No,0.07819992561991725
+84,84,OHE_mh_family_history_Yes,0.06386717057212671
+77,77,OHE_prev_supervisor_experience_1,0.053521224219017546
+8,8,supervisor_experience,0.04363202460156802
+82,82,OHE_prev_coworkers_experience_0,0.03640087332830379
+24,24,OHE_care_options_Yes,0.032950329483918205
+50,50,OHE_prev_benefits_I don't know,0.029576646243212188
+23,23,OHE_care_options_No,0.026949632657352982
+0,0,age,0.02659231063086813
+76,76,OHE_prev_supervisor_experience_0,0.02456061154430084
+31,31,OHE_anonymity_I don't know,0.024442823938084
+9,9,OHE_country_live_US,0.021646840563733935
+1,1,phys_health_importance,0.01813653523600241
+55,55,"OHE_prev_care_options_Yes, I was aware of all of them",0.01778225347101139
+15,15,OHE_num_employees_26-100,0.01708861274937077
+12,12,OHE_country_work_outside_US,0.01668248396101397
+3,3,prev_phys_health_importance,0.014768213370765866
+29,29,OHE_seek_help_resources_Yes,0.013505522363440266
+4,4,prev_mental_health_importance,0.013318021887506864
+62,62,OHE_prev_seek_help_resources_None did,0.012884972823737613
+11,11,OHE_country_work_US,0.011586592633067034
+2,2,mental_health_importance,0.011539782475289024
+91,91,OHE_race_new_no_answer,0.011443414646407832
+47,47,OHE_coworkers_willingness_Yes,0.010898012050999368
+34,34,OHE_leave_difficulty_Somewhat easy,0.010895647976246385
+10,10,OHE_country_live_outside_US,0.010812386226209255
+14,14,OHE_num_employees_More than 1000,0.010786859508730656
+90,90,OHE_race_new_white,0.00923178955191985
+70,70,OHE_prev_phys_vs_mental_Same level of comfort for each,0.008936626154865155
+73,73,"OHE_prev_supervisor_willingness_No, none of my previous supervisors",0.008635570264993002
+20,20,OHE_benefits_I don't know,0.008575252133884236
+45,45,OHE_supervisor_willingness_No,0.008472707231625203
+93,93,OHE_age_bucket_Young,0.008253480963799955
+41,41,OHE_phys_vs_mental_Same level of comfort for each,0.008087909140957262
+36,36,OHE_leave_difficulty_I don't know,0.007725542292627822
+17,17,OHE_num_employees_500-1000,0.007298551408251475
+65,65,OHE_prev_anonymity_I don't know,0.0070365885586110176
+68,68,OHE_prev_anonymity_No,0.006581961729694257
+60,60,OHE_prev_wellness_program_I don't know,0.006173141089919267
+16,16,OHE_num_employees_6-25,0.005773773294969624
+32,32,OHE_anonymity_Yes,0.00512241789700385
+37,37,OHE_leave_difficulty_Neither easy nor difficult,0.004945077808780059
+53,53,OHE_prev_care_options_I was aware of some,0.004672955461101714
+19,19,OHE_benefits_Yes,0.004600100633729406
+43,43,OHE_supervisor_willingness_Yes,0.004422456314199637
+13,13,OHE_num_employees_100-500,0.004078007249309319
+38,38,OHE_leave_difficulty_Somewhat difficult,0.003944339642771595
+52,52,"OHE_prev_benefits_Yes, they all did",0.003927993970179726
+33,33,OHE_anonymity_No,0.0036140547160691933
+87,87,OHE_gender_new_male,0.003559228544085084
+89,89,OHE_gender_new_non-binary,0.003522477246283099
+35,35,OHE_leave_difficulty_Very easy,0.0033640781596111693
+72,72,OHE_prev_supervisor_willingness_Some of my previous supervisors,0.0032683947247154703
+54,54,OHE_prev_care_options_N/A (was not aware),0.003030931238136296
+61,61,"OHE_prev_wellness_program_Yes, they all did",0.0026708143142004457
+74,74,"OHE_prev_supervisor_willingness_Yes, all of my previous supervisors",0.002659983284559497
+59,59,OHE_prev_wellness_program_Some did,0.0025842719841607203
+88,88,OHE_gender_new_female,0.0025355356927523587
+56,56,OHE_prev_care_options_N/A (none offered),0.002370091718520697
+44,44,OHE_supervisor_willingness_Maybe,0.002332353665033083
+49,49,OHE_prev_benefits_Some did,0.0022615215178576216
+40,40,OHE_phys_vs_mental_Physical health,0.002079062692623125
+58,58,OHE_prev_wellness_program_None did,0.0020759212994295394
+48,48,OHE_coworkers_willingness_No,0.00203494235402057
+79,79,"OHE_prev_coworkers_willingness_No, at none of my previous employers",0.0017476898164075206
+83,83,OHE_prev_coworkers_experience_1,0.0015816703516683558
+81,81,"OHE_prev_coworkers_willingness_Yes, at all of my previous employers",0.0014231862210796111
+64,64,"OHE_prev_seek_help_resources_Yes, they all did",0.001407168944444741
+28,28,OHE_seek_help_resources_No,0.0012703708034272948
+42,42,OHE_phys_vs_mental_Mental health,0.00113854897686369
+25,25,OHE_wellness_program_No,0.001030171235477315
+94,94,OHE_age_bucket_Middle_age,0.0004358507802056317
+92,92,OHE_race_new_Others,0.0003908802623457616
+27,27,OHE_wellness_program_I don't know,0.00023127316048373293
+6,6,prev_employer,0.0
+18,18,OHE_num_employees_1-5,0.0
+21,21,OHE_benefits_No,0.0
+86,86,OHE_mh_family_history_I don't know,0.0
+26,26,OHE_wellness_program_Yes,0.0
+5,5,remote_work,0.0
+22,22,OHE_benefits_Not eligible for coverage / NA,0.0
+80,80,OHE_prev_coworkers_willingness_Some of my previous employers,0.0
+66,66,"OHE_prev_anonymity_Yes, always",0.0
+78,78,OHE_prev_coworkers_willingness_At some of my previous employers,0.0
+30,30,OHE_seek_help_resources_I don't know,0.0
+39,39,OHE_leave_difficulty_Difficult,0.0
+75,75,OHE_prev_supervisor_willingness_I don't know,0.0
+46,46,OHE_coworkers_willingness_Maybe,0.0
+51,51,"OHE_prev_benefits_No, none did",0.0
+71,71,OHE_prev_phys_vs_mental_Mental health,0.0
+57,57,"OHE_prev_care_options_No, I only became aware later",0.0
+69,69,OHE_prev_phys_vs_mental_Physical health,0.0
+63,63,OHE_prev_seek_help_resources_Some did,0.0
+67,67,OHE_prev_anonymity_Sometimes,0.0
+95,95,OHE_age_bucket_Older,0.0
